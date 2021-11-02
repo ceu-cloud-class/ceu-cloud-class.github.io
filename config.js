@@ -37,21 +37,12 @@ const config = {
             '/internet', // add trailing slash if enabled above
             '/aws',
             '/serverless',
-            '/apachespark',
-            '/sparkinternals',
-            '/sparkAPI',
-            '/spark-continued',
-            '/bigdatahistory',
             '/resources',
         ],
         collapsedNav: [
             '/internet', // add trailing slash if enabled above
             '/aws',
             '/serverless',
-            '/apachespark',
-            '/sparkinternals',
-            '/sparkAPI',
-            '/spark-continued',
 
         ],
         links: [{ text: '<- Go Back', link: 'http://localhost:8000/' }],
